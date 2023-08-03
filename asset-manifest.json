@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/letsplay/static/css/main.47002606.css",
+    "main.js": "/letsplay/static/js/main.40bc3a03.js",
+    "index.html": "/letsplay/index.html",
+    "main.47002606.css.map": "/letsplay/static/css/main.47002606.css.map",
+    "main.40bc3a03.js.map": "/letsplay/static/js/main.40bc3a03.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47002606.css",
+    "static/js/main.40bc3a03.js"
+  ]
+}
